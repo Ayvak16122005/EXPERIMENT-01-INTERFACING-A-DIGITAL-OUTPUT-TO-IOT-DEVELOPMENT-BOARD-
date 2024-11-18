@@ -1,4 +1,4 @@
-
+![Screenshot 2024-11-18 214359](https://github.com/user-attachments/assets/cf86596e-0e4d-4bcf-83d9-4a09acb791d9)
 # EXPERIMENT--02-SIMULATION-OF-PUSHBUTTON-AND-LEDINTERFACE WITH ARM CONTROLLER ANDPROTEUS
 ##  NAME: KAVYA T
 ##  ROLL NO :2305003004
@@ -111,12 +111,12 @@ HAL_Delay(500);
 }
 ```
 ## Output screen shots of proteus  :
-![image](https://github.com/Brindha77/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118889143/f2eb13f6-197d-4b30-8744-8b2aabdfcbe3)
+![Screenshot 2024-11-18 214359](https://github.com/user-attachments/assets/2518d761-4199-4bb7-bd9a-43a2f2c2bff2)
 
-![image](https://github.com/Brindha77/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118889143/6cfbd352-c71c-4082-8342-f8619bbe7b20)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![image](https://github.com/Brindha77/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118889143/39505723-e2bb-4353-9e1d-0b2369dbf1c0)
+![Screenshot 2024-11-18 214435](https://github.com/user-attachments/assets/f983a234-fbcd-477f-8eb9-1c1efd10aefb)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
